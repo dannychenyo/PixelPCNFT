@@ -1,0 +1,146 @@
+Background:
+0	Orange-Blue gradient           
+1	Red-Pink-Yellow gradient        
+2	Blue-Yellow gradient
+3	Yellow-Blue gradient
+4	Green gradient
+5	Pink-Blue gradient
+6	Red gradient
+7	Fractured
+8	Blue gradient
+9	Blue 1
+10	Blue 2
+11	Blue 3
+12	Blue 4
+13	Orange 1
+14	Orange 2
+15	Red 1
+16	Red 2
+17	Pink 1
+18	Pink 2
+19  	pink 3
+20      Green 1
+21      Green 2
+22      Green 3
+23      Green 4
+24      Green 5
+25      Yellow 1
+26      Yellow 2
+27	Purple 1
+28 	Purple 2
+
+	
+Case:
+0	White ITX
+1	Orange ITX
+2	Green ITX
+3	Blue ITX
+4	Black ITX
+5	Red ITX
+
+0	White ATX
+1	Black ATX
+2	Cream ATX
+3	Pink ATX
+4	Red ATX
+
+0	Gray MATX
+1	Black MATX
+2	White MATX
+3	Blue MATX
+4	RED MATX
+
+Case fans:
+0	Black-Black 
+1	White-Gray 
+2	Black-RGB 
+3	White-RGB 
+4	Gray-Gray 
+5	Black-Silver 
+6	Bronze 
+7	White-RGB-Strip 
+8	Black-RGB-Strip 
+9	Black-Red-Strip 
+10	White-Red-Strip
+11	Blue-Purple 
+12	Black-Blue 
+13	White-Blue 
+
+Cpu Coolers:
+0	Square Black 
+1	Circular RGB 
+2	Circular Red 
+3	Circular White 
+4	Circular Black 
+5	Square RGB 
+6	Square Gray 
+7	Square Red 
+8	Black Circular AIO 
+9	RGB AIO 
+10	White Circular AIO 
+11	White AIO 
+
+Graphics Cards:
+0	Chenyo 
+1	Hadron
+2	Reaver 
+3	MOK 
+4	KSI 
+5	White 
+6	Slytify 
+7	Phat 
+8	Astro 
+
+Motherboards:
+0	Black-Red DIX ATX
+1	White DIX ATX
+2	White MOK ATX
+3	Striped Anus ATX
+4	Strike MOK ATX
+
+0	Black-Red ITX
+1	White ITX
+
+0	Black-Red DIX MATX
+1	Striped-Anus MATX
+2	White DIX MATX
+3	Black Assrock MATX
+4	White Assrock MATX
+
+PowerSupply:
+0	MOK 
+1	Slytify
+2	Phat
+3	Watts
+4	Chenyo
+
+Ram:
+0	Red Saber
+1	Black Titaniam
+2	Titaniam
+3	Pink-White Saber
+4	RGB Saber
+5	Gray Titanium
+6	Frostbite
+7	Blue Hyper
+8	RGB Hyper
+9	White Hyper
+10	Red Hyper
+11	Yellow Saber
+12	Green Saber
+13	Blue Saber
+
+Stickers:
+
+
+	
+
+
+
+
+
+
+
+
+
+
